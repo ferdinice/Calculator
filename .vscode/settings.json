@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "**/.rmv/config/*.json": "jsonc"
+    },
+    "files.exclude": {
+        "**/.rmv/catalog/**": true
+    },
+    "[rocket-mvbasic]": {
+        "editor.codeLens": false
+    }
+}
